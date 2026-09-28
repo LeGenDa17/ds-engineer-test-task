@@ -1,0 +1,2 @@
+# Don't count notebooks (mostly embedded plot images) in GitHub's language stats
+*.ipynb linguist-documentation
