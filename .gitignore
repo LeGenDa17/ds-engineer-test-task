@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Editor / local tools
+.vscode/
+.claude/
+
+# Personal notes
+interview_prep/
+
+# Original task files (the data used by task 2 is in task2_regression/data/)
+/train.csv
+/hidden_test.csv
+/*.docx
